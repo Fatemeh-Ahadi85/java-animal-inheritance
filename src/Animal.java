@@ -6,7 +6,7 @@ public class Animal {
     }
 
     public void makeSound(){
-        System.out.println("I'm an animal");
+        System.out.println("I'm not an animal");
     }
 
     public void showInfo(){
